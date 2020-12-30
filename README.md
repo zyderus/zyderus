@@ -23,4 +23,4 @@ and **microcontroller** settlement 👀
 * 📄 HTML CSS SASS
 * 🍹 Gulp
 
-🔭 Currently working on my first fully featured app creatively named [**movie web app**](https://watch-movies-app.herokuapp.com/)
+🚀 Currently working on my first fully featured app creatively named [**movie web app**](https://watch-movies-app.herokuapp.com/)
