@@ -6,7 +6,7 @@ I'm Rustam from Russia - Uzbekistan, I enjoy web development, mobile development
 
 Skills: JS Dart C++(Arduino) Node React Flutter MongoDB PostgreSQL GraphQL Gulp Jest WebDevTools HTML CSS SASS
 
-- 🔭 I’m currently working on this [web app](https://https://watch-movies-app.herokuapp.com)  
+- 🔭 I’m currently working on this [movies web app](https://watch-movies-app.herokuapp.com/)  
 
 
 
