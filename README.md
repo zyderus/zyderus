@@ -7,10 +7,11 @@ My name is Rustam, from Russia Uzbekistan, I enjoy web development, mobile devel
 **Skills:** 
 * 💻 Javascript
 * 💻 Dart
-* 💻 ArduinoC++
+* 💻 C++
 * 🖼 Node
 * ⚛ React
 * 📱 Flutter
+* 🤖 Arduino
 * 📂 PostgreSQL
 * 📂 MongoDB
 * 📝 GraphQL
