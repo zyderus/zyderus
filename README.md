@@ -26,4 +26,4 @@ and **microcontroller** settlement 👀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/gulp/gulp.png">  GULP</code>
 
 
-Currently working on my first fully featured app creatively named [**movie web app**](https://watch-movies-app.herokuapp.com/) 🚀
+Currently working on my first fully featured [open source](https://github.com/zyderus/movie-app) app creatively named [**movie app**](https://watch-movies-app.herokuapp.com/) 🚀
