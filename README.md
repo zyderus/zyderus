@@ -6,7 +6,7 @@ My name is Rustam, from Russia Uzbekistan, I enjoy web development, mobile devel
 
 **Skills:** 
 * 💻 Javascript
-* 💻Dart
+* 💻 Dart
 * 💻 ArduinoC++
 * 🖼 Node
 * ⚛ React
@@ -19,6 +19,4 @@ My name is Rustam, from Russia Uzbekistan, I enjoy web development, mobile devel
 * 📄 HTML CSS SASS
 * 🍹 Gulp
 
-- 🔭 I’m currently working on this [movies web app](https://watch-movies-app.herokuapp.com/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asdf)
+🔭 I’m currently working on this [movies web app](https://watch-movies-app.herokuapp.com/)
