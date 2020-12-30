@@ -4,6 +4,21 @@
 
 My name is Rustam, from Russia Uzbekistan, I enjoy web development, mobile development and microcontroller settlement :)
 
-**Skills:** Javascript Dart ArduinoC++ Node React Flutter PostgreSQL MongoDB GraphQL Jest WebDevTools HTML CSS Gulp SASS
+**Skills:** 
+* Javascript
+* Dart
+* ArduinoC++
+* Node
+* React
+* Flutter
+* PostgreSQL
+* MongoDB
+* GraphQL
+* Jest
+* WebDevTools
+* HTML CSS SASS
+* Gulp
 
 - 🔭 I’m currently working on this [movies web app](https://watch-movies-app.herokuapp.com/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asdf)
