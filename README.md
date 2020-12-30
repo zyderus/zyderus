@@ -5,7 +5,7 @@
 My name is Rustam, from Russia Uzbekistan,  
 I enjoy **web** development,  
 **mobile** development  
-and **microcontroller** settlement 😄
+and **microcontroller** settlement 👀
 
 ## Skills 
 * 💻 Javascript
