@@ -26,11 +26,9 @@ I enjoy web and mobile app development 👀
 ## I have experience in:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter</code>
-<code><img height="20" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.jpg"> Nest.js</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/webpack/webpack.png"> Webpack</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/gulp/gulp.png"> Gulp</code>
 
-## Currently
-* working on my first fully featured [open source](https://github.com/zyderus/movie-app) app creatively named [**movie app**](https://watch-movies-app.herokuapp.com/) 🚀
-
+[//]: <> (## Currently>)
 [//]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> C++</code>)
+[//]: <> (<code><img height="20" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.jpg"> Nest.js</code>)
