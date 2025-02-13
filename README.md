@@ -16,7 +16,10 @@ I enjoy web and mobile app development 👀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png"> Next.js</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> Redux</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> GraphQL</code>
-<code><img height="20" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> Jest</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"> Docker</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"> AWS</code>
+<code><img height="20" src="https://simpleicons.org/icons/githubactions.svg"> GithubActions</code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4"> Jest</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"> Storybook</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fd411ff82401f5efce7009773091c2e22a042b24/topics/cucumber/cucumber.png"> Cucumber</code>
 
